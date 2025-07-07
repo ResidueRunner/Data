@@ -1,0 +1,39 @@
+﻿Attendance,Marks,Dept,Course,R,Device,Prog,R_prog,Languages,Reasons
+100,19.00,DoAB,MSc,Elective,Desktop;Laptop;Smartphone,1,2,Have never studied,PSI
+83,5,DoAB,MSc,Elective,Laptop,1,1,Have never studied,S
+100,13,DoAB,IPhD,Elective,Desktop,1,1,Have never studied,PSI
+100,8.00,DoAB,MSc,Elective,Desktop,1,1,Have never studied,PSI
+83,10,DoAB,MSc,Elective,Desktop,2,3,Other,I
+83,19,DoAB,IPhD,Elective,Desktop;Laptop,1,1,Other,P
+92,12,DoAB,MSc,Elective,Laptop;Smartphone,3,1,Other,PS
+83,13,DoAB,MSc,Elective,Laptop;Smartphone,1,1,Have never studied,PS
+83,3,DoAB,MSc,Elective,Laptop;Smartphone,1,1,Have never studied,PS
+75,13,DoAB,IPhD,Elective,Laptop;Smartphone,1,1,Have never studied,PSI
+50,17,DoAB,NA,NA,NA,NA,NA,NA,NA
+75,7,DoAB,NA,NA,NA,NA,NA,NA,NA
+83,16,DoAB,MSc,Elective,Laptop;Smartphone,2,1,Other,SI
+92,16,DoB,MSc,Elective,Laptop;Smartphone,3,4,Python;C;R,PSI
+100,15,DoBB,MTech,Elective,Desktop;Laptop;Smartphone,2,1,Python,PSI
+92,13,DoBB,MTech,Elective,Laptop,4,2,Python,PSIN
+100,14,DoBB,MTech,Elective,Laptop;Smartphone,1,1,Python,PSIM
+75,15,DoBB,IPhD,Audit,Desktop;Laptop;Smartphone,2,1,Python,PS
+92,7,DoBB,MTech,Elective,Smartphone,1,1,Python,I
+75,17,DoBB,MSc,Audit,Desktop;Laptop;Smartphone,3,2,Python,SI
+100,20,DoBB,MTech,Elective,Laptop;Smartphone,2,1,Python,PSI
+50,14,DoBB,MSc,Audit,Laptop;Smartphone,1,1,Have never studied,I
+100,17,DoBB,MTech,Elective,Laptop;Smartphone,2,1,Python,SI
+67,12,DoBB,MSc,Audit,Laptop;Smartphone,1,1,Have never studied,S
+42,10,DoBB,MSc,Audit,Laptop,3,1,Other,I
+83,9,DoPS,MSc,Elective,Desktop;Laptop;Smartphone,3,2,Other,PS
+83,19,DoPS,MSc,Elective,Laptop,1,1,Have never studied,PS
+83,19,DoPS,MSc,Elective,Laptop,1,1,Have never studied,P
+67,12,DoPS,MSc,Elective,Laptop;Smartphone,2,1,Other,PS
+75,9,DoPS,MSc,Elective,Laptop,2,2,Have never studied,PSM
+83,17,DoPS,MSc,Elective,Desktop;Laptop;Smartphone,1,1,Python,P
+75,19,DoPS,MSc,Elective,Laptop;Smartphone,1,1,Python;C;R;Other,M
+83,19,DoSCB,IMSc,Regular,Laptop;Smartphone,2,1,Python,PSI
+92,11,DoSCB,IMSc,Regular,Laptop,4,3,Python;C,I
+100,10,DoSCB,IMSc,Regular,Laptop;Smartphone,1,1,Python,PIN
+75,18,DoSCB,IMSc,Regular,Laptop,2,1,Python,N
+92,18,DoSCB,IMSc,Regular,Laptop;Smartphone,1,1,Python,N
+58,7,Others,MSc,Elective,Laptop;Smartphone,1,1,Have never studied,S

@@ -1,0 +1,37 @@
+Department,Course,R_prog,Device,Prog_experience,Rprog_experience,Languages,Reason
+DoSCB,IMSc,Regular,Laptop,2,1,Python,N
+DoPS,MSc,Elective,Laptop,1,1,Have never studied,P
+DoPS,MSc,Elective,Laptop;Smartphone,1,1,Python;C;R;Other,S
+DoBB,MTech,Elective,Smartphone,1,1,Python,I
+DoPS,MSc,Elective,Laptop,1,1,Have never studied,PCV
+DoBB,MTech,Elective,Laptop;Smartphone,1,1,Python,PCVIS
+DoBB,IPhD,Audit/Extra,Desktop;Laptop;Smartphone,2,1,Python,P
+DoSCB,IMSc,Regular,Laptop;Smartphone,2,1,Python,PCVI
+DoBB,MTech,Elective,Laptop;Smartphone,2,1,Python,PCVI
+DoAB,MSc,Elective,Desktop,1,1,Have never studied,P
+DoBB,MSc,Audit/Extra,Laptop,3,1,Other,I
+DoPS,MSc,Elective,Laptop;Smartphone,2,1,Other,PCV
+DoB,MSc,Elective,Laptop;Smartphone,3,4,Python;C;R,PCVI
+DoBB,MSc,Audit/Extra,Desktop;Laptop;Smartphone,3,2,Python,CVI
+Others,MSc,Elective,Laptop;Smartphone,1,1,Have never studied,CV
+DoAB,MSc,Elective,Laptop;Smartphone,1,1,Have never studied,PCV
+DoBB,MSc,Audit/Extra,Laptop;Smartphone,1,1,Have never studied,CV
+DoAB,MSc,Elective,Desktop,2,3,Other,I
+DoAB,MSc,Elective,Laptop;Smartphone,2,1,Other,CVI
+DoSCB,IMSc,Regular,Laptop;Smartphone,1,1,Python,PIN
+DoAB,MSc,Elective,Desktop;Laptop;Smartphone,1,2,Have never studied,PCVI
+DoPS,MSc,Elective,Desktop;Laptop;Smartphone,1,1,Python,P
+DoAB,IPhD,Elective,Desktop,1,1,Have never studied,P
+DoSCB,IMSc,Regular,Laptop;Smartphone,1,1,Python,N
+DoAB,MSc,Elective,Laptop;Smartphone,1,1,Have never studied,PCV
+DoAB,IPhD,Elective,Laptop;Smartphone,1,1,Have never studied,PCVI
+DoPS,MSc,Elective,Laptop,2,2,Have never studied,PCVS
+DoAB,MSc,Elective,Laptop;Smartphone,3,1,Other,PCV
+DoAB,MSc,Elective,Laptop,1,1,Have never studied,CV
+DoBB,MSc,Audit/Extra,Laptop;Smartphone,1,1,Have never studied,I
+DoAB,IPhD,Elective,Desktop;Laptop,1,1,Other,P
+DoBB,MTech,Elective,Laptop;Smartphone,2,1,Python,CVI
+DoPS,MSc,Elective,Desktop;Laptop;Smartphone,3,2,Other,PCV
+DoBB,MTech,Elective,Laptop,4,2,Python,PCVIN
+DoBB,MTech,Elective,Desktop;Laptop;Smartphone,2,1,Python,PCV
+DoSCB,IMSc,Regular,Laptop,4,3,Python;C,I

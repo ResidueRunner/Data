@@ -1,0 +1,28 @@
+State,Zone,Cases,Recovered,Death,Nurses,Doctors,Operational_Airport,Aircrats_movements,International_flights,International_passengers
+Andhra Pradesh,South,363,7,6,7.9,5.9,6,31324,52,5032
+Andaman and Nicobar Islands,South,11,0,0,27.6,12.3,1,12282,2,1
+Arunachal Pradesh,North East,1,0,0,10.6,6.7,3,184,NA,NA
+Assam,North East,29,0,0,8,1.8,8,47703,934,33599
+Bihar,East,60,0,1,2,3.3,5,49054,1186,103769
+Chandigarh,North,18,7,0,NA,NA,1,15103,702,107258
+Chhattisgarh,Centre,10,9,0,10.7,18.3,2,14783,NA,NA
+Delhi,North,898,25,13,19.5,34.4,2,382862,94455,15539118
+Goa,West,7,1,0,6.5,11.3,1,48798,3219,545466
+Gujarat,West,241,26,17,26.5,5.8,11,99485,13672,2079870
+Haryana,North,169,29,3,9,16.8,0,14,NA,NA
+Himachal Pradesh,North,28,6,1,6,1.9,3,5134,NA,NA
+Jammu and Kashmir,North,184,6,4,11,14.7,3,28690,288,21770
+Jharkhand,East,13,0,1,3.3,3,3,16360,NA,NA
+Karnataka,South,197,30,6,10,17.1,5,223492,29797,4634462
+Kerala,South,357,96,2,38.2,14.5,2,135134,59218,9330135
+Ladakh,North,15,10,0,NA,NA,0,5324,NA,NA
+Madhya Pradesh,Centre,259,0,16,3.5,6.3,8,39440,173,20975
+Maharashtra,West,1364,125,97,9.6,19.7,10,360313,67477,11094885
+Manipur,North East,2,1,0,NA,NA,1,8454,6,102
+Mizoram,North East,1,0,0,10.6,6.7,1,1777,NA,NA
+Odisha,East,44,2,1,2.1,7.4,2,26276,567,62279
+Puducherry,South,5,1,0,NA,NA,1,874,NA,NA
+Punjab,North,132,5,11,12.5,17.8,5,16313,4002,703756
+Rajasthan,North,463,21,3,14.3,4.5,7,50868,3146,469378
+Tamil Nadu,South,834,21,8,15.8,8.6,8,191735,44756,6828650
+Telengana,South,473,35,7,NA,NA,3,156618,22298,3480432
